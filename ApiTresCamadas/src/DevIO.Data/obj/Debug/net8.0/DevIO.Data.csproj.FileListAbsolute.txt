@@ -1,0 +1,17 @@
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\bin\Debug\net8.0\DevIO.Data.deps.json
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\bin\Debug\net8.0\DevIO.Data.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\bin\Debug\net8.0\DevIO.Data.pdb
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.AssemblyInfoInputs.cache
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.AssemblyInfo.cs
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\refint\DevIO.Data.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.pdb
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\ref\DevIO.Data.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\bin\Debug\net8.0\DevIO.Data.runtimeconfig.json
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\bin\Debug\net8.0\DevIO.Business.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\bin\Debug\net8.0\DevIO.Business.pdb
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.AssemblyReference.cache
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.Up2Date
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.genruntimeconfig.cache

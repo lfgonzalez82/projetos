@@ -1,0 +1,12 @@
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\bin\Debug\net8.0\DevIO.Business.deps.json
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\bin\Debug\net8.0\DevIO.Business.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\bin\Debug\net8.0\DevIO.Business.pdb
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.csproj.AssemblyReference.cache
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.AssemblyInfoInputs.cache
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.AssemblyInfo.cs
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\refint\DevIO.Business.dll
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\DevIO.Business.pdb
+E:\Projetos\C#\ProjetandoArquiteturas\ApiTresCamadas\src\DevIO.Business\obj\Debug\net8.0\ref\DevIO.Business.dll
